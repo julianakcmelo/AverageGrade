@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("https://t3.ftcdn.net/jpg/04/05/80/88/360_F_405808828_lwfcYW72K3i3IsZQayyHg9kEqHpRrrET.jpg");
+}
+
+header {
+  background-color: rgba(222, 29, 251, 0.919);
+  margin-top: 4px;
+  padding: 10px;
+  font-family: 'PT Sans Narrow', sans-serif;
+  color: white;
+  font-size: 50px;
+  letter-spacing: 3px;
+  border: 1px solid rgb(12, 214, 245);
+  text-align: center;
+}
